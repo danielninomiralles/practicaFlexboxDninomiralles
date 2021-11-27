@@ -4,10 +4,12 @@ h3 {
 }
 
 .boxShared {
-    max-width: 600px;
 	display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    max-width: 600px;
 }
 .social_shared_buttons {
-	width: 100px;
-    justify-content: space-between;
+    display: absolut;
+	width: 30px;
 }
