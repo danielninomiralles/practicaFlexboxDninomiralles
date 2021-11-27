@@ -1,0 +1,8 @@
+.boxShared {
+    max-width: 600px;
+	display: flex;
+}
+.social_shared_buttons {
+	width: 100px;
+    justify-content: space-between;
+}
